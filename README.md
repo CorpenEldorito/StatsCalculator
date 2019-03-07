@@ -9,4 +9,4 @@ Created for my University Course, just a simple command line application to get 
 * Lowest Value
 
 ## Credit
-* Corpen - (Oliver Hitchcock)
+* c0rp3n - (Oliver Hitchcock)
